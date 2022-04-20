@@ -25,12 +25,8 @@ describe('sayHello', function (){
     });
 })
 
-// helloJane
-describe('helloJane', function (){
-    it('should return "Hello, Jane!" when called', function () {
-        expect(typeof helloJane).toBe('string')
-    });
-})
+
+
 
 
 

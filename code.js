@@ -4,7 +4,7 @@ function helloWorld() {
 }
 
 function sayHello(){
-
+    return 'sayHello';
 }
 
 // function plusOne(num){
